@@ -1,8 +1,6 @@
-# osu!clickboard
-
-A compact, purpose-built osu! keypad featuring **2 mechanical switches**, an **OLED screen** for real-time tapping **BPM**, a **rotary encoder** for **volume control**, and **8 LEDs** for modes/debugging/feedback — all housed in a **minimalistic 3D printed case**.
-
+![osu!clickboard banner](imgs/banner.png)
 ---
+A compact, purpose-built osu! keypad featuring **2 mechanical switches**, an **OLED screen** for real-time tapping **BPM**, a **rotary encoder** for **volume control**, and **8 LEDs** for modes/debugging/feedback — all housed in a **minimalistic 3D printed case**.
 
 ## ✨ Features
 
