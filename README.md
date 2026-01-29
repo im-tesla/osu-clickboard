@@ -58,7 +58,7 @@ A compact, purpose-built osu! keypad featuring **2 mechanical switches**, an **O
 ---
 
 ## 📜 License
-MIT License (recommended) — feel free to fork and modify.
+- MIT License — feel free to fork and modify.
 ---
 
 ## 🙌 Credits
